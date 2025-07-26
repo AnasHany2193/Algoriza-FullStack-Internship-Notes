@@ -18,6 +18,15 @@ Algoriza-FullStack-Internship-Notes/
 │   │   ├── 02 - Queries & Joins.md
 │   │   ├── 03 - Stored Procedures & Functions.md
 │   │   └── 04 - Indexes
+│   ├── Week 03 - HTML & CSS/
+│   │   ├── 01 - HTML & CSS
+│   │   │   ├── 01 - Introduction
+│   │   │   ├── 02 - HTML
+│   │   │   └── 03 - CSS
+│   │   └── 02 - CSS - Kevin Powell
+│   │   │   ├── 01 - CSS Basics
+│   │   │   ├── 02 - Box Model & Typography
+│   │   │   └── 03 - Mini Project + Display & Layout
 ├── Phase 02/
 │   └── (coming soon...)
 
@@ -60,13 +69,27 @@ Algoriza-FullStack-Internship-Notes/
   - Built-in SQL Functions (String, Date, Math)
   - User-defined Functions (Scalar, Inline TVF, Multi-Statement TVF)
 
+### 🧠 Phase 01 - Week 03 (HTML & CSS)
+
+#### 📺 Net Ninja Playlist
+
+- ✅ Introduction
+- ✅ HTML
+- ✅ CSS
+
+#### 🎨 Kevin Powell CSS Crash Course
+
+- ✅ CSS Basics
+- ✅ Box Model & Typography
+- ✅ Mini Project + Display & Layout
+
 ## 📅 Progress Tracker
 
 | Phase | Week | Topic      | Status         |
 | ----- | ---- | ---------- | -------------- |
 | 1     | 1    | C#         | ✅ Done        |
 | 1     | 2    | SQL        | ✅ Done        |
-| 1     | 3    | HTML/CSS   | 🔒 Not Started |
+| 1     | 3    | HTML/CSS   | ✅ Done        |
 | 1     | 4    | JavaScript | 🔒 Not Started |
 
 ## 📂 Tools Used

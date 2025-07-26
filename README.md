@@ -6,16 +6,21 @@ All notes are written in **Markdown (.md)** using [Obsidian](https://obsidian.md
 ## 📌 Structure
 
 ```
+
 Algoriza-FullStack-Internship-Notes/
 ├── Phase 01/
 │   ├── Week 01 - CSharp/
 │   │   ├── 01 - Fundamentals.md
 │   │   ├── 02 - Object-Oriented Programming (OOP).md
 │   │   └── 03 - Advanced Topics.md
-│   └── Week 02 - SQL/
-│   │   └── (coming soon...)
+│   ├── Week 02 - SQL/
+│   │   ├── 01 - Basics & Constraints.md
+│   │   ├── 02 - Queries & Joins.md
+│   │   ├── 03 - Stored Procedures & Functions.md
+│   │   └── 04 - Indexes
 ├── Phase 02/
 │   └── (coming soon...)
+
 ```
 
 ## ✅ Completed Topics
@@ -41,12 +46,26 @@ Algoriza-FullStack-Internship-Notes/
   - Optional Parameters
   - Overriding `ToString()` & `Equals()`
 
+### 🧠 Phase 01 - Week 02 (SQL)
+
+- ✅ Basics & Constraints
+  - CREATE, ALTER, DROP
+  - Data Types, DEFAULT, CHECK, IDENTITY, etc.
+- ✅ Queries & Joins
+  - SELECT, WHERE, GROUP BY, ORDER BY
+  - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN
+  - UNION, UNION ALL, COALESCE
+- ✅ Stored Procedures & Functions
+  - Stored Procedures (Input/Output, Return)
+  - Built-in SQL Functions (String, Date, Math)
+  - User-defined Functions (Scalar, Inline TVF, Multi-Statement TVF)
+
 ## 📅 Progress Tracker
 
 | Phase | Week | Topic      | Status         |
 | ----- | ---- | ---------- | -------------- |
 | 1     | 1    | C#         | ✅ Done        |
-| 1     | 2    | SQL        | ⏳ In Progress |
+| 1     | 2    | SQL        | ✅ Done        |
 | 1     | 3    | HTML/CSS   | 🔒 Not Started |
 | 1     | 4    | JavaScript | 🔒 Not Started |
 
@@ -58,6 +77,7 @@ Algoriza-FullStack-Internship-Notes/
 
 ## 🌐 Author
 
-**Anas Hany** [🔗 LinkedIn](https://www.linkedin.com/in/anashany219/) • [🐙 GitHub](https://github.com/AnasHany2193)
+**Anas Hany**  
+[🔗 LinkedIn](https://www.linkedin.com/in/anashany219/) • [🐙 GitHub](https://github.com/AnasHany2193)
 
 ## ⭐ If this helped or inspired you, feel free to give it a star!
